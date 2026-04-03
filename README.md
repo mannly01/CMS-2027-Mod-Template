@@ -1,4 +1,4 @@
-# CMS 2026 Template - 1.0.0
+# CMS 2026 Mod Template - 1.0.0
 A Visual Studio 2022+ Template for CMS 2026 and MelonLoader 0.7.2.
 
 ## Features
@@ -7,6 +7,7 @@ A Visual Studio 2022+ Template for CMS 2026 and MelonLoader 0.7.2.
 
 ## Installation
 * Have Visual Studio 2022+ installed
+* Have Car Mechanic Simulator 2026 with MelonLoader 0.7.2 installed
 * Download .zip from [Releases](https://github.com/mannly01/CMS-2026-Mod-Template/releases/latest) page
 * Copy .zip to `Documents\Visual Studio 2022\Templates\ProjectTemplates`
 * Start a new Solution, search for 'CMS' and select the Template
