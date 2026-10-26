@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VSTemplate Version="3.0.0" Type="Project" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
   <TemplateData>
-    <Name>CMS 2026 Mod Template</Name>
-    <Description>A Visual Studio Template for CMS 2026 and MelonLoader 0.7.2.</Description>
-    <Icon>CMS 2026 Mod Template.ico</Icon>
+    <Name>CMS 2027 Mod Template</Name>
+    <Description>A Visual Studio Template for CMS 2027 and MelonLoader 0.7.3.</Description>
+    <Icon>CMS 2027 Mod Template.ico</Icon>
     <ProjectType>CSharp</ProjectType>
     <LanguageTag>csharp</LanguageTag>
     <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
     <SortOrder>1000</SortOrder>
     <TemplateID>eb2f0727-a577-41b1-b3de-42f2df4802bc</TemplateID>
     <CreateNewFolder>true</CreateNewFolder>
-    <DefaultName>CMS 2026 Mod Template</DefaultName>
+    <DefaultName>CMS 2027 Mod Template</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
   </TemplateData>
   <TemplateContent>
