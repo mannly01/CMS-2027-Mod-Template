@@ -4,7 +4,7 @@ using UnityEngine;
 
 /*
     Add References to the following files:
-        Folder: Steam\steamapps\common\Car Mechanic Simulator 2027\MelonLoader\Il2CppAssemblies
+        Folder: Steam\steamapps\common\Car Mechanic Simulator 2027 Demo\MelonLoader\Il2CppAssemblies
             Assembly-CSharp.dll
             Il2CppFusion.Runtime.dll
             Il2Cppmscorlib.dll
@@ -13,7 +13,7 @@ using UnityEngine;
             UnityEngine.dll
             UnityEngine.InputLegacyModule.dll
             UnityEngine.UI.dll
-        Folder: Steam\steamapps\common\Car Mechanic Simulator 2027\MelonLoader\net6
+        Folder: Steam\steamapps\common\Car Mechanic Simulator 2027 Demo\MelonLoader\net6
             Il2CppInterop.Runtime.dll
             MelonLoader.dll
 */
@@ -31,8 +31,8 @@ namespace $safeprojectname$
         public const string Company = null;
         public const string Version = "1.0.0";
         public const string DownloadLink = null;
-        public const string MelonGameCompany = "";
-        public const string MelonGameName = "";
+        public const string MelonGameCompany = "Red Dot Games";
+        public const string MelonGameName = "Car Mechanic Simulator 2027 Demo";
     }
 
     /// <summary>
