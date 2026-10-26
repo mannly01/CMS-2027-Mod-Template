@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CMS 2026 Mod Template")]
+[assembly: AssemblyTitle("CMS 2027 Mod Template")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("George Mann")]
-[assembly: AssemblyProduct("CMS 2026 Mod Template")]
+[assembly: AssemblyProduct("CMS 2027 Mod Template")]
 [assembly: AssemblyCopyright("Copyright © George Mann 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
