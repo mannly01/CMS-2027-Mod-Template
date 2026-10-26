@@ -12,8 +12,8 @@
     <ProjectGuid>{C0A89A14-5311-438D-968E-AB3F6626B2B1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CMS_2026_Mod_Template</RootNamespace>
-    <AssemblyName>CMS 2026 Mod Template</AssemblyName>
+    <RootNamespace>CMS_2027_Mod_Template</RootNamespace>
+    <AssemblyName>CMS 2027 Mod Template</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
@@ -62,10 +62,10 @@
     <None Include="ProjectTemplate.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <VSTemplate Include="CMS 2026 Mod Template.vstemplate" />
+    <VSTemplate Include="CMS 2027 Mod Template.vstemplate" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CMS 2026 Mod Template.ico" />
+    <Content Include="CMS 2027 Mod Template.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />
